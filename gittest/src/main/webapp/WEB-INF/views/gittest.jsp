@@ -10,6 +10,10 @@
 <h1>gittest.jsp</h1>
 <h1>gittest2</h1>
 <h1>github</h1>
+<<<<<<< HEAD
 <h1>eclipse test</h1>
+=======
+<h1>github test</h1>
+>>>>>>> branch 'master' of https://github.com/yeryul/gittest20240206.git
 </body>
 </html>
